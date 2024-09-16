@@ -1,6 +1,19 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
+Create First NextJS APP
+```bash
+npx create-next-app@latest
+Ok to proceed? (y) 
+√ What is your project named? ... nextjs14​
+√ Would you like to use TypeScript? ... No / Yes​
+√ Would you like to use ESLint? ... No / Yes​
+√ Would you like to use Tailwind CSS? ... No / Yes​
+√ Would you like to use `src/` directory? ... No / Yes​
+√ Would you like to use App Router? (recommended) ... No / Yes​
+√ Would you like to customize the default import alias (@/*)? ... No / Yes
+```
+# Nextjs 14 requires  Nodejs  v18.17.0​
 
 First, run the development server:
 
